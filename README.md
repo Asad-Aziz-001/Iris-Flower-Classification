@@ -1,6 +1,8 @@
 # Iris-Flower-Classification
 🌸 Iris Flower Classification App: A machine learning-powered web application that accurately classifies iris flowers into three species based on sepal and petal measurements. Features interactive input sliders, real-time predictions with confidence scores, and comprehensive data visualizations..
 
+# **Live App Link :** https://iris-flower-classification-j29uqx2wjz7rxz3ntxf7m8.streamlit.app/
+
 # **Problem Overview**
 
 The iris flower classification is a classic machine learning problem where we aim to classify iris flowers into three species (setosa, versicolor, virginica) based on their physical measurements. This is a supervised multi-class classification task with well-separated classes, making it ideal for demonstrating machine learning concepts.
