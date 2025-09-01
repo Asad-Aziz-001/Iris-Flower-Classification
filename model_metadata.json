@@ -1,0 +1,20 @@
+{
+  "model_type": "SVM",
+  "accuracy": 0.9666666666666667,
+  "features": [
+    "SepalLengthCm",
+    "SepalWidthCm",
+    "PetalLengthCm",
+    "PetalWidthCm"
+  ],
+  "classes": [
+    "Iris-setosa",
+    "Iris-versicolor",
+    "Iris-virginica"
+  ],
+  "best_params": {
+    "C": 0.1,
+    "gamma": "scale",
+    "kernel": "linear"
+  }
+}
